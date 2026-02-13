@@ -19,7 +19,7 @@ const Header = () => {
                 <a href="">How it's Made</a>
               </li>
               <li>
-                <a href="">Gifting</a>
+                <a href="">For Your Loved one.</a>
               </li>
             </ul>
           </nav>
